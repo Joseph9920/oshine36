@@ -2,8 +2,8 @@ a{
 	outline:0 !important;	
 }
 .navbar-light {
-	background-color:transparent!important;
-	font-size:12px;	
+	background-color:transparent !important;
+	font-size:13px;
 }
 .navbar-light .navbar-nav .nav-link{
 	color:#fff;	
